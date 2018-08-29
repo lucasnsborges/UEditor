@@ -1,4 +1,4 @@
-# Document editor for Urubempa platform
+# Document editor for Urupemba platform
 
 [Demo](https://ueditor.herokuapp.com)
 
