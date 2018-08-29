@@ -1,0 +1,36 @@
+{
+  "document": {
+    "nodes": [
+      {
+        "object": "block",
+        "type": "paragraph",
+        "nodes": [
+          {
+            "object": "text",
+            "leaves": [
+              {
+                "text":
+                  "Utilização de bots para atendimento ao cliente"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "object": "block",
+        "type": "paragraph",
+        "nodes": [
+          {
+            "object": "text",
+            "leaves": [
+              {
+                "text":
+                  "Eu diria que as tecnologias estão ao nosso dispor, no entanto ser seletivo e utilizá-las de forma positiva e discernente é uma ação e opção do homem. Eticamente, ainda prefiro arriscar em meus cálamos, que são menos prolixos e verbosos, talvez não tão rebuscados, mas com sentidos e significados reais."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
