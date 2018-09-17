@@ -1,4 +1,4 @@
-# Document editor for Urupemba platform
+# React Slatejs editor
 
 [Demo](https://ueditor.herokuapp.com)
 
